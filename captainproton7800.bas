@@ -283,4 +283,4 @@
   plotchars 'Version Atari 7800 3.0'       4   8  8
   plotchars 'Copyright 2023'               4  96  8
   plotchars 'Eye of Jupitor and'           6  12  9
-  plotchars 'Kobol Lord'                   6  88  9
+  plotchars 'Rocket4Uranus'                6  88  9
